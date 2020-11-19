@@ -1,0 +1,19 @@
+{
+  "name": "asr",
+  "version": "1.0.0",
+  "description": "asr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangxuelian/asr.git"
+  },
+  "author": "zhangxuelian<761303248@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangxuelian/asr/issues"
+  },
+  "homepage": "https://github.com/zhangxuelian/asr#readme"
+}
